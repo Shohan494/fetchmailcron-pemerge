@@ -1,3 +1,4 @@
+```
 <?php
 namespace App\Http\Controllers;
 
@@ -290,4 +291,4 @@ class ModifiedMailController extends Controller
         }
 	}
 }
-
+```
